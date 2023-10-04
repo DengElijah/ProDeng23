@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProDeng23
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...php
+- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...client apps development
 - 📫 How to reach me ...dengelijah30@gmail.com
 
